@@ -5,3 +5,13 @@ for (i = 0; i < this.length; i++){
 }
 }
 students.bootcamp();
+do{
+	var name = prompt("What is your name?");
+}
+while (name != bootcamp);
+
+do {
+	text +- "The number is " + i
+}
+i++
+while i > 10
